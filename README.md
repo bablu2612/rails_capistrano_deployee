@@ -1,0 +1,1 @@
+# rails_capistrano_deployee
