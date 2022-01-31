@@ -1,1 +1,1 @@
-# rails_capistrano_deployee
+# railscap_deployee
